@@ -11,7 +11,7 @@ An insurance company wants to improve its cash flow forecasting by better predic
 ### App Developement
 Now that our machine learning pipeline and model are ready we will start building a front-end web application that can generate predictions on new datapoints. This application will support ‘Online’ as well as ‘Batch’ predictions through a csv file upload. Utilized Streamlite, a opensource service for the deployement of the web app. 
 
-![Screenshot](Screenshot 2021-02-17 at 00.26.18.png)
+![Screenshot](Screenshot.png)
 
 Used Streamlite, 
 Read the complete post: https://medium.com/@moez_62905/build-and-deploy-machine-learning-web-app-using-pycaret-and-streamlit-28883a569104
