@@ -1,6 +1,6 @@
-# Build and deploy machine learning web app to predict insurance bill.
+# Build and deployed  machine learning web app to predict insurance bill.
 
-
+## Description:
 In this project we will train a machine learning pipeline using PyCaret and create a web app using a Streamlit open-source framework. This web app will be a simple interface for business users to generate bill predictions from patients demographich dataset using a trained machine learning pipeline. 
 ![Screenshot](workflow.png)
 
@@ -15,4 +15,16 @@ Now that our machine learning pipeline and model are ready we will start buildin
 ### Deployed App on Heroku
 
 Now that the model is trained, the machine learning pipeline is ready, and the application is tested on our local machine, deployed the app to Heroku. To upload the application source code onto Heroku we linked  a GitHub repository to the Heroku account.Using Heroku the app is published on https://charge-reduction.herokuapp.com.
+
+## Tools Used
+
+* Pycaret
+* Classification ML Algorithms(AdaBoost, Gradient Boosting and RandomForest)
+* Streamlite
+* Git 
+* Heroku
+
+## Potential Impact
+Predicting the hospital charges of patients would help Insurance Companies to forecast the cashflow. The app I devloped helps the companies to predict the charges as indvidual and as batches, so it will positively impacts the company's turnover.
+
 
